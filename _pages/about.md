@@ -16,10 +16,10 @@ I am interested in graph query processing, stream processing, and query rewritin
 
 [CV](./files/resume_en.pdf)
 
-[DBLP](https://dblp.org/pid/94/3019-45.html)
-
 Publications
 ------
+
+DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * [A Reachability Index for Recursive Label-Concatenated Graph Queries](https://arxiv.org/abs/2203.08606).\
 *Chao Zhang, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
@@ -41,7 +41,7 @@ EDBT 2020.
 *Chao Zhang.*\
 VLDB 2017 (PhD Workshop).
 
-Services
+Service
 ------
 PC Member: VLDB 2023, SIGMOD 2022, BDA 2021 (Demo).
 
@@ -51,7 +51,7 @@ Awards
 ------
 * Best Paper Award in BDA 2021, Francophone Community in Data Management.
 * Best PhD Thesis (runner-up) in BDA 2020, Francophone Community in Data Management.
-* Full scholarship in the 1st Big Sky Earth training school in DLR, Germany, April 4th-9th, 2016.
+* Full scholarship for the 1st Big Sky Earth training school in DLR, Germany, April 4th-9th, 2016.
 
 Teaching
 ------
