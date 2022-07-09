@@ -41,6 +41,12 @@ EDBT 2020.
 *Chao Zhang.*\
 VLDB 2017 (PhD Workshop).
 
+Presentations
+------
+* Big Graph Processing Systems: Reachability Indexes. [[Slide]](./files/reachability_indexes_chaozhang0045.pdf)
+  * MDD 2022 Summer School, Bastia, 19-23 June, 2022. 
+  * eBISS 2022 Summer School, Cesena, 4-8 July, 2022. 
+
 Service
 ------
 PC Member: VLDB 2023, SIGMOD 2022, BDA 2021 (Demo).
