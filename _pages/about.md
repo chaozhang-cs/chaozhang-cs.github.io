@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc at Data Systems Group, University of Waterloo, working under the supervision of Prof. Tamer Özsu. Previously, I was a postdoc at Lyon 1 University, supervised by Prof. Angela Bonifati. 
+I am a postdoc in Data Systems Group at the University of Waterloo, working under the supervision of Prof. Tamer Özsu. Previously, I was a postdoc at Lyon 1 University, supervised by Prof. Angela Bonifati. 
 
 I received my Ph.D. in computer science from the University of Clermont Auvergne in 2019, advised by Prof. Farouk Toumani.
 
