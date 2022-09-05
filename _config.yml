@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chao Zhang (张超)"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at Lyon 1 University"
-  location         : "Lyon, France"
+  bio              : "Postdoc at University of Waterloo"
+  location         : "Waterloo, Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hGLpndEAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "chao-zhang-5b881b114"
   orcid            : "https://orcid.org/0000-0003-4972-9380"
   pinterest        :
   soundcloud       :
