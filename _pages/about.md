@@ -22,7 +22,7 @@ DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * A Reachability Index for Recursive Label-Concatenated Graph Queries.\
 *Chao Zhang, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
-ICDE 2023 (Accepted for publication). [[Tech report]](https://arxiv.org/abs/2203.08606) [[Code]](https://github.com/g-rpqs/rlc-index) [[Slides]](./files/A\ Reachability\ Index\ for\ Recursive\ Label-Concatenated\ Graph\ Queries.pdf)
+ICDE 2023 (Accepted for publication). [[Tech report]](https://arxiv.org/abs/2203.08606) [[Code]](https://github.com/g-rpqs/rlc-index) [[Slides]](./files/A_Reachability_Index_for_Recursive_Label-Concatenated_Graph_Queries.pdf)
 
 * [Efficient Incremental Computation of Aggregations over Sliding Windows](https://dl.acm.org/doi/10.1145/3447548.3467360).\
 *Chao Zhang, Reza Akbarinia, Farouk Toumani.*\
