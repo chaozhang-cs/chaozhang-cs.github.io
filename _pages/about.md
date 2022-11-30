@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc in Data Systems Group at the University of Waterloo, working under the supervision of Prof. Tamer Özsu. Previously, I was a postdoc at Lyon 1 University, supervised by Prof. Angela Bonifati. 
+I am a postdoc in Data Systems Group at the University of Waterloo, working under the supervision of Prof. Tamer Özsu. Previously, I was a postdoc at Lyon 1 University, working with Prof. Angela Bonifati. 
 
-I received my Ph.D. in computer science from the University of Clermont Auvergne in 2019, advised by Prof. Farouk Toumani.
+I received my Ph.D. in computer science from the University of Clermont Auvergne, advised by Prof. Farouk Toumani.
 
 I am interested in graph query processing, stream processing, and query rewriting. 
 
@@ -42,7 +42,7 @@ VLDB 2017 (PhD Workshop).
 
 Presentations
 ------
-* Big Graph Processing Systems: Reachability Indexes (with A. Bonifati). [[Slides]](./files/reachability_indexes_chaozhang0045.pdf)
+* Big Graph Processing Systems (with A. Bonifati). 
   * MDD 2022 Summer School, Bastia, 19-23 June, 2022. 
   * eBISS 2022 Summer School, Cesena, 4-8 July, 2022. 
 
