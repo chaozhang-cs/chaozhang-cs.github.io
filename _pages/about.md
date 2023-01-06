@@ -60,6 +60,7 @@ Awards
 
 Teaching
 ------
+* *[CS 348: Introduction to Database Management](https://student.cs.uwaterloo.ca/~cs348/outline-w23/)* at the University of Waterloo, Winter 2023.
 * *Big Data Processing: Apache Spark in Action* at the University of Clermont Auvergne, Spring 2022.
 * *Semantic Web* (labs) at the University of Clermont Auvergne, Fall 2021. 
 
