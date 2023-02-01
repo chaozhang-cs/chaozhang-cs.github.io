@@ -20,6 +20,10 @@ Publications
 
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
+* Reachability Indexes on Graphs: A Tutorial.\
+*Chao Zhang, Angela Bonifati, M. Tamer Özsu.*\
+SIGMOD 2023 (Accepted for publication).
+
 * A Reachability Index for Recursive Label-Concatenated Graph Queries.\
 *Chao Zhang, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
 ICDE 2023 (Accepted for publication). [[Tech report]](https://arxiv.org/abs/2203.08606) [[Code]](https://github.com/g-rpqs/rlc-index) [[Slides]](./files/A_Reachability_Index_for_Recursive_Label-Concatenated_Graph_Queries.pdf)
