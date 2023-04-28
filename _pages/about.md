@@ -22,7 +22,7 @@ DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * An Overview of Reachability Indexes on Graphs.\
 *Chao Zhang, Angela Bonifati, M. Tamer Özsu.*\
-SIGMOD 2023 (Tutorial, Accepted for publication).
+SIGMOD 2023 (Tutorial).
 
 * A Reachability Index for Recursive Label-Concatenated Graph Queries.\
 *Chao Zhang, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
