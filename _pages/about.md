@@ -21,31 +21,31 @@ Publications
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * [Indexing Techniques for Graph Reachability Queries](https://https://arxiv.org/pdf/2311.03542.pdf).\
-*Chao Zhang, Angela Bonifati, M. Tamer Özsu.*\
+*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 Under review.
 
 * [An Overview of Reachability Indexes on Graphs](https://dl.acm.org/doi/10.1145/3555041.3589408).\
-*Chao Zhang, Angela Bonifati, M. Tamer Özsu.*\
+*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 SIGMOD 2023 (Tutorial) [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides (full)]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
 
 * [A Reachability Index for Recursive Label-Concatenated Graph Queries](https://ieeexplore.ieee.org/document/10184548).\
-*Chao Zhang, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
+*__Chao Zhang__, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
 ICDE 2023. [[Tech report]](https://arxiv.org/abs/2203.08606) [[Code]](https://github.com/g-rpqs/rlc-index) [[Slides]](./files/A_Reachability_Index_for_Recursive_Label-Concatenated_Graph_Queries.pdf)
 
 * [Efficient Incremental Computation of Aggregations over Sliding Windows](https://dl.acm.org/doi/10.1145/3447548.3467360).\
-*Chao Zhang, Reza Akbarinia, Farouk Toumani.*\
+*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
 KDD 2021. [[Code]](https://github.com/chaozhang-db/PBA)
 
 * [SUDAF: Sharing User-Defined Aggregate Functions](https://ieeexplore.ieee.org/document/9101637).\
-*Chao Zhang, Farouk Toumani, Bastien Doreau.*\
+*__Chao Zhang__, Farouk Toumani, Bastien Doreau.*\
 ICDE 2020 (Demo). 
 
 * [Sharing Computations for User-Defined Aggregate Functions](https://openproceedings.org/2020/conf/edbt/paper_120.pdf).\
-*Chao Zhang, Farouk Toumani.*\
+*__Chao Zhang__, Farouk Toumani.*\
 EDBT 2020. 
 
 * [Symmetric and Asymmetric Aggregate Functions in Massively Parallel Computing](https://www.vldb.org/2017/cp_phd_workshop.php).\
-*Chao Zhang.*\
+*__Chao Zhang__.*\
 VLDB 2017 (PhD Workshop).
 
 Presentations
