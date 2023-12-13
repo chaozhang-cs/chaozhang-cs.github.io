@@ -56,7 +56,7 @@ Presentations
 
 Service
 ------
-PC Member: VLDB 2024, SIGMOD 2024, ACM SoCC 2023, VLDB 2023, SIGMOD 2022, BDA 2021 (Demo).
+PC Member: SIGMOD 2025, VLDB 2024, SIGMOD 2024, ACM SoCC 2023, VLDB 2023, SIGMOD 2022, BDA 2021 (Demo).
 
 Invited Journal Reviewer: ACM TODS, VLDB Journal, IEEE TKDE.
 
