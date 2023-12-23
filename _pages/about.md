@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc in Data Systems Group at the University of Waterloo, working under the supervision of Prof. Tamer Özsu. Previously, I was a postdoc at Lyon 1 University, working with Prof. Angela Bonifati. 
+I am a postdoc in [Data Systems Group](https://uwaterloo.ca/data-systems-group/) at the University of Waterloo, working under the supervision of [Prof. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). Previously, I was a postdoc at Lyon 1 University, working with [Prof. Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
 
-I received my Ph.D. in computer science from the University of Clermont Auvergne, advised by Prof. Farouk Toumani.
+I received my PhD in computer science from the University of Clermont Auvergne, advised by Prof. Farouk Toumani.
 
-I am interested in graph query processing, stream processing, and query rewriting. 
+My research is on data management systems, and my recent work focuses on graph data management and stream processing. 
 
-<!-- [CV](./files/resume_en.pdf) -->
+News
+------
+* I am on the job market. Here is my job application package: [CV](./files/CV___Chao_Zhang.pdf), [Research Statement](./files/Research_Statement___Chao_Zhang.pdf), and [Teaching Statement](./files/Teaching_Statement___Chao_Zhang.pdf).
 
 Publications
 ------
@@ -56,9 +58,15 @@ Presentations
 
 Service
 ------
-PC Member: SIGMOD 2025, VLDB 2024, SIGMOD 2024, ACM SoCC 2023, VLDB 2023, SIGMOD 2022, BDA 2021 (Demo).
-
-Invited Journal Reviewer: ACM TODS, VLDB Journal, IEEE TKDE.
+* PC Member: 
+  * SIGMOD: 2025, 2024, 2022
+  * VLDB: 2024, 2023
+  * ACM SoCC: 2023
+  * BDA: 2021 (Demo).
+* Invited Journal Reviewer:
+  * ACM TODS
+  * VLDB Journal
+  * IEEE TKDE
 
 Awards
 ------
