@@ -15,7 +15,7 @@ My research is on data management systems, and my recent work focuses on graph d
 
 News
 ------
-* I am on the job market. Here is my job application package: [CV](./files/CV___Chao_Zhang.pdf), [Research Statement](./files/Research_Statement___Chao_Zhang.pdf), and [Teaching Statement](./files/Teaching_Statement___Chao_Zhang.pdf).
+* 2023-12: I am on the job market. Here is my job application package: [CV](./files/CV___Chao_Zhang.pdf), [Research Statement](./files/Research_Statement___Chao_Zhang.pdf), and [Teaching Statement](./files/Teaching_Statement___Chao_Zhang.pdf).
 
 Publications
 ------
