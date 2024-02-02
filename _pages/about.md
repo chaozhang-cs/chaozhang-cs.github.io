@@ -64,7 +64,7 @@ Service
 ------
 * PC Member: 
   * SIGMOD: 2025, 2024, 2022
-  * VLDB: 2024, 2023
+  * VLDB: 2025, 2024, 2023
   * ACM SoCC: 2023
   * BDA: 2021 (Demo).
 * Invited Journal Reviewer:
