@@ -22,9 +22,9 @@ Publications
 
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
-* Sharing Queries with Nonequivalent User-Defined Aggregate Functions.\
+* [Sharing Queries with Nonequivalent User-Defined Aggregate Functions](https://dl.acm.org/doi/10.1145/3649133).\
 *__Chao Zhang__, Farouk Toumani.*\
- ACM TODS 2024 (Accepted for publication).
+ ACM TODS 2024.
 
 * [Indexing Techniques for Graph Reachability Queries](https://arxiv.org/pdf/2311.03542.pdf).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
