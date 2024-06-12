@@ -24,7 +24,7 @@ DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * Incremental Sliding Window Connectivity over Streaming Graphs.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-VLDB 2024 (Accepted for publication)
+VLDB 2024 (Accepted for publication) [[Extended version]](https://arxiv.org/abs/2406.06754)
 
 * [Sharing Queries with Nonequivalent User-Defined Aggregate Functions](https://dl.acm.org/doi/10.1145/3649133).\
 *__Chao Zhang__, Farouk Toumani.*\
@@ -40,7 +40,7 @@ SIGMOD 2023 (Tutorial) [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [
 
 * [A Reachability Index for Recursive Label-Concatenated Graph Queries](https://ieeexplore.ieee.org/document/10184548).\
 *__Chao Zhang__, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
-ICDE 2023. [[Tech report]](https://arxiv.org/abs/2203.08606) [[Code]](https://github.com/g-rpqs/rlc-index) [[Slides]](./files/A_Reachability_Index_for_Recursive_Label-Concatenated_Graph_Queries.pdf)
+ICDE 2023. [[Extended version]](https://arxiv.org/abs/2203.08606) [[Code]](https://github.com/g-rpqs/rlc-index) [[Slides]](./files/A_Reachability_Index_for_Recursive_Label-Concatenated_Graph_Queries.pdf)
 
 * [Efficient Incremental Computation of Aggregations over Sliding Windows](https://dl.acm.org/doi/10.1145/3447548.3467360).\
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
