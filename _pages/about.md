@@ -12,7 +12,7 @@ I am a postdoc in [Data Systems Group](https://uwaterloo.ca/data-systems-group/)
 Previously, I was a postdoc at Lyon 1 University, working with [Prof. Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
 I received my PhD in computer science from the University of Clermont Auvergne, advised by [Prof. Farouk Toumani](https://perso.limos.fr/~fatouman/).
 
-My research is on database systems. I am insterested in data structures for data management. My recent focus is on graph-strcutured data.
+My research is on database systems. I am interested in data structures for data management. My recent focus is on graph-structured data.
 
 News
 ------
