@@ -14,9 +14,8 @@ I received my PhD in computer science from the University of Clermont Auvergne, 
 
 My research is on database systems. I am interested in data structures for data management. My recent focus is on graph-structured data.
 
-News
-------
-* 2023-12: I am on the job market. Here is my job application package: [CV](./files/CV___Chao_Zhang.pdf), [Research Statement](./files/Research_Statement___Chao_Zhang.pdf), and [Teaching Statement](./files/Teaching_Statement___Chao_Zhang.pdf).
+<span style="color:red;">I am on the job market. I would be pleased to discuss any openings you might have.</span>
+
 
 Publications
 ------
