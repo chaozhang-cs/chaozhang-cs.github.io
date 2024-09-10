@@ -7,32 +7,37 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc in [Data Systems Group](https://uwaterloo.ca/data-systems-group/) at the University of Waterloo, working under the supervision of [Prof. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). 
+I am a postdoc in [Data Systems Group](https://uwaterloo.ca/data-systems-group/) at the University of Waterloo. I work with Prof. Renée J. Miller on data inteligence and [Prof. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. 
 
 Previously, I was a postdoc at Lyon 1 University, working with [Prof. Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
 I received my PhD in computer science from the University of Clermont Auvergne, advised by [Prof. Farouk Toumani](https://perso.limos.fr/~fatouman/).
 
-My research is on database systems. I am interested in data structures for data management. My recent focus is on graph-structured data.
+My research focuses on data management systems, particularly data structures for managing graph-structured data. Recently, my research interests have expanded to data intelligence, including tabular data analysis and graph-augmented intelligence.
 
 <span style="color:red;">I am on the job market. I would be pleased to discuss any openings you might have.</span>
 
 
+Preprints & Submissions
+------
+* Low-Latency Sliding Window Connectivity.\
+*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
+Submitted 2024.
+
+* [Indexing Techniques for Graph Reachability Queries](https://arxiv.org/pdf/2311.03542.pdf).\
+*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
+Submitted 2023.
+
 Publications
 ------
-
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * Incremental Sliding Window Connectivity over Streaming Graphs.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-VLDB 2024 (Accepted for publication) [[Extended version]](https://arxiv.org/abs/2406.06754)
+VLDB 2024. [[Extended version]](https://arxiv.org/abs/2406.06754)
 
 * [Sharing Queries with Nonequivalent User-Defined Aggregate Functions](https://dl.acm.org/doi/10.1145/3649133).\
 *__Chao Zhang__, Farouk Toumani.*\
  ACM TODS 2024.
-
-* [Indexing Techniques for Graph Reachability Queries](https://arxiv.org/pdf/2311.03542.pdf).\
-*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Under review.
 
 * [An Overview of Reachability Indexes on Graphs](https://dl.acm.org/doi/10.1145/3555041.3589408).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
