@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc in [Data Systems Group](https://uwaterloo.ca/data-systems-group/) at the University of Waterloo. I am working with Prof. Renée J. Miller on data inteligence. I worked with [Prof. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. 
+I am a postdoc in Data Systems Group at the University of Waterloo. I am working with Prof. Renée J. Miller on data inteligence. I worked with Prof. Tamer Özsu on graph data management. 
 
-Previously, I was a postdoc at Lyon 1 University, working with [Prof. Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
-I received my PhD in computer science from the University of Clermont Auvergne, advised by [Prof. Farouk Toumani](https://perso.limos.fr/~fatouman/).
+Previously, I was a postdoc at Lyon 1 University, working with Prof. Angela Bonifati. 
+I received my PhD in computer science from the University of Clermont Auvergne, advised by Prof. Farouk Toumani.
 
 My research focuses on data management systems, particularly data structures for managing graph-structured data. Recently, my research interests have expanded to data intelligence, including tabular data analysis and graph-augmented intelligence.
 
