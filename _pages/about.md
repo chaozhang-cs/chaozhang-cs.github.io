@@ -27,6 +27,10 @@ Submitted 2024.
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 Submitted 2023.
 
+* Parallelization of Incremental Aggregations over Sliding Windows.\
+*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
+Submitted 2023.
+
 Publications
 ------
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
