@@ -19,7 +19,7 @@ My research focuses on data management systems, particularly data structures for
 
 Preprints & Submissions
 ------
-* Low-Latency Sliding Window Connectivity.\
+* [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 Submitted 2024.
 
@@ -35,7 +35,7 @@ Publications
 ------
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
-* Incremental Sliding Window Connectivity over Streaming Graphs.\
+* [Incremental Sliding Window Connectivity over Streaming Graphs](https://www.vldb.org/pvldb/vol17/p2473-zhang.pdf).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 VLDB 2024. [[Extended version]](https://arxiv.org/abs/2406.06754) [[Code]](https://github.com/chaozhang-cs/bic)
 
