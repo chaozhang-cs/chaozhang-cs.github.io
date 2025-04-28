@@ -14,8 +14,6 @@ I received my PhD in computer science from the University of Clermont Auvergne, 
 
 I am interested in analytical query processing in data systems, particularly for relational and graph data. I have worked on efficient processing of relational queries with aggregation functions and graph queries for pathfinding, spanning both batch and stream processing. My recent focus is on data intelligence, with an emphasis on data discovery and query processing over unstructured data.
 
-<span style="color:red;">I am on the job market. I would be pleased to discuss any openings you might have.</span>
-
 
 Preprints & Submissions
 ------
