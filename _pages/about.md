@@ -79,8 +79,6 @@ Service
   * ACM SoCC: 2024, 2023
   * BDA: 2021 (Demo).
 * Invited Journal Reviewer:
-  * ACM TODS
-  * VLDB Journal
   * IEEE TKDE
 
 Awards
