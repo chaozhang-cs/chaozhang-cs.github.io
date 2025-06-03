@@ -19,15 +19,15 @@ Preprints & Submissions
 ------
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Submitted 2024.
+Preprint 2024.
 
 * [Indexing Techniques for Graph Reachability Queries](https://arxiv.org/pdf/2311.03542.pdf).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Submitted 2023.
+Revision under review 2025.
 
 * Parallelization of Incremental Aggregations over Sliding Windows.\
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
-Submitted 2023.
+Revision under review 2025.
 
 Publications
 ------
