@@ -7,23 +7,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc in Data Systems Group at the University of Waterloo. I am working with Prof. Renée J. Miller on data inteligence. I worked with Prof. Tamer Özsu on graph data management. 
+I am a postdoc in Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data inteligence. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. 
 
-Previously, I was a postdoc at Lyon 1 University, working with Prof. Angela Bonifati. 
-I received my PhD in computer science from the University of Clermont Auvergne, advised by Prof. Farouk Toumani.
+Previously, I was a postdoc at Lyon 1 University, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
+I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en).
 
-I am interested in analytical query processing in data systems, particularly for relational and graph data. I have worked on efficient processing of relational queries with aggregation functions and graph queries for pathfinding, spanning both batch and stream processing. My recent focus is on data intelligence, with an emphasis on data discovery and query processing over unstructured data.
+My research focuses analytical query processing in data systems, particularly for relational and graph data. I have worked on efficient processing of relational queries with aggregation functions and graph queries for pathfinding, spanning both batch and stream processing. My recent focus is on data intelligence, with an emphasis on data discovery and query processing over unstructured data.
 
 
 Preprints & Submissions
 ------
+* [LazyVLM: Neuro-Symbolic Approach to Video Analytics](https://arxiv.org/abs/2505.21459).\
+*Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
+Preprint 2025.
+
+* [GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764).\
+*Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
+Under review 2025.
+
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Preprint 2024.
+Preprint 2025.
 
 * [Indexing Techniques for Graph Reachability Queries](https://arxiv.org/pdf/2311.03542.pdf).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Revision under review 2025.
+Accepted with minor revision 2025.
 
 * Parallelization of Incremental Aggregations over Sliding Windows.\
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
@@ -67,19 +75,23 @@ VLDB 2017 (PhD Workshop).
 
 Presentations
 ------
+* Towards High-Throughput and Low-Latency Sliding Window Processing over Data Streams.
+  * School of Computer Science, University of Guelph, June 18, 2025.
+  * School of Information Technology, York University, April 2, 2024.
 * Big Graph Processing Systems (with A. Bonifati). 
-  * MDD 2022 Summer School, Bastia, 19-23 June, 2022. 
-  * eBISS 2022 Summer School, Cesena, 4-8 July, 2022. 
-
+  * MDD 2022 Summer School, Bastia, June 19-23, 2022. 
+  * eBISS 2022 Summer School, Cesena, July 4-8, 2022.
+    
 Service
 ------
 * PC Member:
   * VLDB: 2026, 2025, 2024, 2023
   * SIGMOD: 2025, 2024, 2022
-  * ACM SoCC: 2024, 2023
+  * ICDE: 2026
+  * ACM SoCC: 2025, 2024, 2023
   * BDA: 2021 (Demo).
 * Invited Journal Reviewer:
-  * IEEE TKDE
+  * ACM TODS, VLDBJ, IEEE TKDE
 
 Awards
 ------
