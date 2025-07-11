@@ -49,7 +49,7 @@ VLDB 2024. [[Extended version]](https://arxiv.org/abs/2406.06754) [[Code]](https
 *__Chao Zhang__, Farouk Toumani.*\
  ACM TODS 2024.
 
-* [An Overview of Reachability Indexes on Graphs](https://dl.acm.org/doi/10.1145/3555041.3589408).\
+* [An Overview of Reachability Indexes on Graphs](https://dl.acm.org/doi/10.1145/3555041.3589408) (Tutorial).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 SIGMOD 2023. [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides (full)]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
 
@@ -61,7 +61,7 @@ ICDE 2023. [[Extended version]](https://arxiv.org/abs/2203.08606) [[Code]](https
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
 KDD 2021. [[Code]](https://github.com/chaozhang-db/PBA)
 
-* [SUDAF: Sharing User-Defined Aggregate Functions](https://ieeexplore.ieee.org/document/9101637).\
+* [SUDAF: Sharing User-Defined Aggregate Functions](https://ieeexplore.ieee.org/document/9101637) (Demo).\
 *__Chao Zhang__, Farouk Toumani, Bastien Doreau.*\
 ICDE 2020. 
 
