@@ -71,7 +71,7 @@ EDBT 2020.
 
 * [Symmetric and Asymmetric Aggregate Functions in Massively Parallel Computing](https://www.vldb.org/2017/cp_phd_workshop.php).\
 *__Chao Zhang__.*\
-VLDB 2017 (PhD Workshop).
+VLDB PhD Workshop 2017.
 
 Presentations
 ------
