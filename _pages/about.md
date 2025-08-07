@@ -12,8 +12,7 @@ I am a postdoc in Data Systems Group at the University of Waterloo. I am working
 Previously, I was a postdoc at Lyon 1 University, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
 I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en).
 
-My research focuses analytical query processing in data systems, particularly for relational and graph data. I have worked on efficient processing of relational queries with aggregation functions and graph queries for pathfinding, spanning both batch and stream processing. My recent focus is on data intelligence, with an emphasis on data discovery and query processing over unstructured data.
-
+My research focuses query processing in database systems, including relational databases and graph databases. My recent focus is on data intelligence systems, with an emphasis on semantic search and query processing over data lakes.
 
 Preprints & Submissions
 ------
