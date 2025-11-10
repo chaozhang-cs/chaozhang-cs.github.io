@@ -28,10 +28,6 @@ Under review 2025.
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 Preprint 2025.
 
-* [Indexing Techniques for Graph Reachability Queries](https://arxiv.org/pdf/2311.03542.pdf).\
-*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Accepted with minor revision 2025.
-
 * Parallelization of Incremental Aggregations over Sliding Windows.\
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
 Revision under review 2025.
@@ -40,17 +36,21 @@ Publications
 ------
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
+* Indexing Techniques for Graph Reachability Queries.\
+*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
+ACM CSUR 2025 (accepted for publication). [[Extended version]](https://arxiv.org/pdf/2311.03542.pdf).
+
 * [Incremental Sliding Window Connectivity over Streaming Graphs](https://www.vldb.org/pvldb/vol17/p2473-zhang.pdf).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 VLDB 2024. [[Extended version]](https://arxiv.org/abs/2406.06754) [[Code]](https://github.com/chaozhang-cs/bic)
 
 * [Sharing Queries with Nonequivalent User-Defined Aggregate Functions](https://dl.acm.org/doi/10.1145/3649133).\
 *__Chao Zhang__, Farouk Toumani.*\
- ACM TODS 2024.
+ ACM TODS 2024, Volume 49, Issue 2.
 
-* [An Overview of Reachability Indexes on Graphs](https://dl.acm.org/doi/10.1145/3555041.3589408) (Tutorial).\
+* [An Overview of Reachability Indexes on Graphs](https://dl.acm.org/doi/10.1145/3555041.3589408).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-SIGMOD 2023. [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides (full)]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
+SIGMOD 2023 (Tutorial). [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides (full)]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
 
 * [A Reachability Index for Recursive Label-Concatenated Graph Queries](https://ieeexplore.ieee.org/document/10184548).\
 *__Chao Zhang__, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
@@ -60,9 +60,9 @@ ICDE 2023. [[Extended version]](https://arxiv.org/abs/2203.08606) [[Code]](https
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
 KDD 2021. [[Code]](https://github.com/chaozhang-db/PBA)
 
-* [SUDAF: Sharing User-Defined Aggregate Functions](https://ieeexplore.ieee.org/document/9101637) (Demo).\
+* [SUDAF: Sharing User-Defined Aggregate Functions](https://ieeexplore.ieee.org/document/9101637).\
 *__Chao Zhang__, Farouk Toumani, Bastien Doreau.*\
-ICDE 2020. 
+ICDE 2020 (Demo). 
 
 * [Sharing Computations for User-Defined Aggregate Functions](https://openproceedings.org/2020/conf/edbt/paper_120.pdf).\
 *__Chao Zhang__, Farouk Toumani.*\
