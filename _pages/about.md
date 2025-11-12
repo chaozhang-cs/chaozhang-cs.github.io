@@ -106,3 +106,12 @@ Teaching
 * *Big Data Processing: Apache Spark in Action* at the University of Clermont Auvergne, Spring 2022.
 * *Semantic Web* (labs) at the University of Clermont Auvergne, Fall 2021. 
 
+{% if page.url == "/" %}
+  <!-- Start of ClustrMaps -->
+  <div style="text-align:center; margin-top: 20px;">
+    <div style="display:inline-block; width:250px; height:180px; overflow:hidden;">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tGiiKsThEeBADlil1h4JnXHJcPh77DkG3kNvsL0Xdnc&cl=ffffff&w=a"></script>
+    </div>
+  </div>
+  <!-- End of ClustrMaps -->
+{% endif %}
