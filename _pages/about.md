@@ -113,7 +113,9 @@ Visitors to this page come from:
   <div style="text-align:left; margin-top: 20px;">
     <div style="display:inline-block; width:250px; height:180px; overflow:hidden;">
       <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=tGiiKsThEeBADlil1h4JnXHJcPh77DkG3kNvsL0Xdnc&cl=ffffff&w=a"></script>
+      <script src="https://efreecode.com/js.js" id="eXF-czhomepa-0" async defer></script>
     </div>
   </div>
   <!-- End of ClustrMaps -->
 {% endif %}
+
