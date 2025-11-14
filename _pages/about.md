@@ -76,7 +76,7 @@ Revision under review 2025.
 
 Presentations
 ------
-* Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes
+* Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes.
   * School of Information Technology, York University, November 20, 2025.
   * Department of Computer Science, University of Lyon (Lyon 1) / CNRS LIRIS, October 13, 2025
 * Towards High-Throughput and Low-Latency Sliding Window Processing over Data Streams.
