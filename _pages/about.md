@@ -16,24 +16,6 @@ My research is on Data Systems. I focus on query processing, including relationa
 
 <span style="color:red">I am looking for highly motivated Ph.D. students, postdocs, visiting students, and research interns. If you are interested in my research, please email me your CV and a one-page research statement with the subject: [PhD/Postdoc/Visiting/Intern Application] Name.</span>
 
-Preprints & Submissions
-------
-* [LazyVLM: Neuro-Symbolic Approach to Video Analytics](https://arxiv.org/abs/2505.21459).\
-*Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
-Preprint 2025.
-
-* [GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764).\
-*Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
-Under review 2025.
-
-* [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
-*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Preprint 2025.
-
-* Parallelization of Incremental Aggregations over Sliding Windows.\
-*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
-Revision under review 2025.
-
 Publications
 ------
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
@@ -74,12 +56,33 @@ EDBT 2020.
 *__Chao Zhang__.*\
 VLDB PhD Workshop 2017.
 
+Preprints & Submissions
+------
+* [LazyVLM: Neuro-Symbolic Approach to Video Analytics](https://arxiv.org/abs/2505.21459).\
+*Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
+Under review 2025.
+
+* [GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764).\
+*Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
+Under review 2025.
+
+* [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
+*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
+Preprint 2025.
+
+* Parallelization of Incremental Aggregations over Sliding Windows.\
+*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
+Revision under review 2025.
+
 Presentations
 ------
+* Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes
+  * School of Information Technology, York University, November 20, 2025.
+  * Department of Computer Science, University of Lyon (Lyon 1) / CNRS LIRIS, October 13, 2025
 * Towards High-Throughput and Low-Latency Sliding Window Processing over Data Streams.
   * School of Computer Science, University of Guelph, June 18, 2025.
   * School of Information Technology, York University, April 2, 2024.
-* Big Graph Processing Systems (with A. Bonifati). 
+* Big Graph Processing Systems (with Angela Bonifati). 
   * MDD 2022 Summer School, Bastia, June 19-23, 2022. 
   * eBISS 2022 Summer School, Cesena, July 4-8, 2022.
     
