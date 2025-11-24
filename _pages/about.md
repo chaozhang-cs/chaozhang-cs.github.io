@@ -20,6 +20,10 @@ Publications
 ------
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
+* Distribution-Aware Exploration for Adaptive HNSW Search.\
+*__Chao Zhang__, Renée J. Miller.*\
+SIGMOD 2026 (accepted for publication).
+
 * Indexing Techniques for Graph Reachability Queries.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 ACM CSUR 2025 (accepted for publication). [[Extended version]](https://arxiv.org/pdf/2311.03542.pdf).
