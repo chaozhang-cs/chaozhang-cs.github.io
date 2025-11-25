@@ -10,11 +10,13 @@ redirect_from:
 
 I am an incoming Junior Professor Chair at the University of Lyon (Lyon 1), starting in Winter 2026, where I will lead the Chair for Generative AI and Reasoning on Heterogeneous Data, funded by the French National Research Agency (ANR). I will be affiliated with the CNRS LIRIS lab.
 
-Currently, I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data inteligence. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
+Currently, I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
-My research is on Data Systems. I focus on query processing, including relational queries, graph queries, vector and semantic search, data structures and indexing methods, stream processing, data discovery, data integration, multimodal data, and natural language queries. My goal is to enhance both human and system efficiency while improving the trustworthiness of query processing in data intelligence platforms.
+I work on data systems. My research interests include the following:
+* Query Processing: relational queries; graph queries; vector and semantic search; indexing methods; stream processing; multimodal data; natural language queries.
+* Data Lakes: data discovery; metadata management; data integration; open lakehouse and AI.
 
-<span style="color:red">I am looking for highly motivated Ph.D. students, postdocs, visiting students, and research interns. If you are interested in my research, please email me your CV and a one-page research statement with the subject: [PhD/Postdoc/Visiting/Intern Application] Name.</span>
+<span style="color:red">I am looking for highly motivated PhD students, postdocs, visiting students, and research interns. If you are interested in query processing or data lakes, please email me your CV with the subject: [PhD/Postdoc/Visiting/Intern Application] Name.</span>
 
 Publications
 ------
@@ -63,20 +65,16 @@ VLDB PhD Workshop 2017.
 Preprints & Submissions
 ------
 * [LazyVLM: Neuro-Symbolic Approach to Video Analytics](https://arxiv.org/abs/2505.21459).\
-*Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
-Under review 2025.
+*Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*
 
 * [GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764).\
-*Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
-Under review 2025.
+*Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*
 
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
-*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-Preprint 2025.
+*__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*
 
 * Parallelization of Incremental Aggregations over Sliding Windows.\
-*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
-Revision under review 2025.
+*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*
 
 Presentations
 ------
@@ -93,8 +91,8 @@ Presentations
 Service
 ------
 * PC Member:
-  * VLDB: 2026, 2025, 2024, 2023
   * SIGMOD: 2025, 2024, 2022
+  * VLDB: 2026, 2025, 2024, 2023
   * ICDE: 2026
   * ACM SoCC: 2025, 2024, 2023
   * BDA: 2021 (Demo).
