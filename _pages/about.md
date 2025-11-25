@@ -12,7 +12,7 @@ I am an incoming Junior Professor Chair at the University of Lyon (Lyon 1), star
 
 Currently, I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
-I work on data systems. My recent focus is on data systems and large language models, aka Data Inteligence Platforms. My research interests include the following:
+I work on data systems. My recent focus is on data systems and large language models, collectively referred to as Data Intelligence Platforms. My research interests include the following:
 * Query Processing: indexing methods; stream processing; multimodal and heterogenous data; natural language queries.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
 
@@ -98,7 +98,7 @@ Presentations
     
 Service
 ------
-* PC Member:
+* Program Committee Member:
   * SIGMOD: 2025, 2024, 2022
   * VLDB: 2026, 2025, 2024, 2023
   * ICDE: 2026
