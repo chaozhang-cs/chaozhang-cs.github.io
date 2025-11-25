@@ -12,11 +12,19 @@ I am an incoming Junior Professor Chair at the University of Lyon (Lyon 1), star
 
 Currently, I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
-I work on data systems. My research interests include the following:
-* Query Processing: relational queries; graph queries; vector and semantic search; indexing methods; stream processing; multimodal data; natural language queries.
-* Data Lakes: data discovery; metadata management; data integration; open lakehouse and AI.
+I work on data systems. My recent focus is on data systems and large language models, aka Data Inteligence Platforms. My research interests include the following:
+* Query Processing: indexing methods; stream processing; multimodal and heterogenous data; natural language queries.
+* Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
 
-<span style="color:red">I am looking for highly motivated PhD students, postdocs, visiting students, and research interns. If you are interested in query processing or data lakes, please email me your CV with the subject: [PhD/Postdoc/Visiting/Intern Application] Name.</span>
+<span style="color:red">I am looking for highly motivated PhD students, postdocs, visiting students, and research interns. If you are interested in Data Inteligence Platforms, please email me your CV with the subject: [PhD/Postdoc/Visiting/Intern Application] Name, and include a brief description of your past work and your future research interests.</span>
+
+Key Works
+------
+* Ada-ef (SIGMOD' 26): Adaptive vector search with declarative recall.
+* BIC (VLDB' 24, KDD' 21): Incremental computing framework for sliding window query processing over data streams.
+* SUDAF (ACM TODS 2024): Processing and optimizing queries with user-defined aggregate functions.
+* RLC Index (ICDE' 23): Indexing multi-hop, recursive relationships on graphs.
+* LazyVLM: Scaling vision-language-model–based video analytics.
 
 Publications
 ------
@@ -101,8 +109,8 @@ Service
 
 Awards
 ------
-* Best Paper Award in BDA 2021, Francophone Community in Data Management.
-* Best PhD Thesis (runner-up) in BDA 2020, Francophone Community in Data Management.
+* Best Paper Award in BDA 2021, French Data Management Community.
+* Best PhD Thesis (runner-up) in BDA 2020, French Data Management Community.
 * Full scholarship for the 1st Big Sky Earth training school in DLR, Germany, April 4th-9th, 2016.
 
 Teaching
