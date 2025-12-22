@@ -10,8 +10,10 @@ redirect_from:
 I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
 I work on data systems. My recent focus is on data systems and large language models, collectively referred to as Data Intelligence Platforms. My research interests include the following:
-* Query Processing: indexing methods; stream processing; multimodal and heterogenous data; natural language queries.
+* Query Processing: indexing methods; graph queries; OLAP; stream processing; heterogenous data; natural language queries.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
+
+<span style="color:red">I am looking for PhD, Postdoc, Master's Studnets, Research Interns, and Visiting Students. Please feel free to drop me a message.</span>
 
 Key Works
 ------
@@ -19,7 +21,7 @@ Key Works
 * BIC (VLDB' 24, KDD' 21): Incremental computing framework for sliding window query processing over data streams.
 * SUDAF (ACM TODS 2024): Processing and optimizing queries with user-defined aggregate functions.
 * RLC Index (ICDE' 23): Indexing multi-hop, recursive relationships on graphs.
-* LazyVLM: Scaling vision-language-model–based video analytics.
+* LazyVLM (ICDE' 26 Demo): Scaling vision-language-model–based video analytics.
 
 Publications
 ------
@@ -27,49 +29,50 @@ DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * Distribution-Aware Exploration for Adaptive HNSW Search.\
 *__Chao Zhang__, Renée J. Miller.*\
-SIGMOD 2026 (accepted for publication).
+SIGMOD 2026 (accepted for publication). [[Extended version]](https://www.arxiv.org/pdf/2512.06636) [[Code]](https://github.com/chaozhang-cs/hnsw-ada-ef)
+
+* LazyVLM: Neuro-Symbolic Approach to Video Analytics.\
+*Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
+ICDE 2026 Demo (accepted for publication). 
 
 * Indexing Techniques for Graph Reachability Queries.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-ACM CSUR 2025 (accepted for publication). [[Extended version]](https://arxiv.org/pdf/2311.03542.pdf).
+ACM CSUR 2025, Volumne 58, Issue 6. [[Extended version]](https://arxiv.org/pdf/2311.03542.pdf).
 
-* [Incremental Sliding Window Connectivity over Streaming Graphs](https://www.vldb.org/pvldb/vol17/p2473-zhang.pdf).\
+* Incremental Sliding Window Connectivity over Streaming Graphs.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 VLDB 2024. [[Extended version]](https://arxiv.org/abs/2406.06754) [[Code]](https://github.com/chaozhang-cs/bic)
 
-* [Sharing Queries with Nonequivalent User-Defined Aggregate Functions](https://dl.acm.org/doi/10.1145/3649133).\
+* Sharing Queries with Nonequivalent User-Defined Aggregate Functions.\
 *__Chao Zhang__, Farouk Toumani.*\
  ACM TODS 2024, Volume 49, Issue 2.
 
-* [An Overview of Reachability Indexes on Graphs](https://dl.acm.org/doi/10.1145/3555041.3589408).\
+* An Overview of Reachability Indexes on Graphs.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-SIGMOD 2023 (Tutorial). [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides (full)]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
+SIGMOD 2023 Tutorial. [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides (full)]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
 
-* [A Reachability Index for Recursive Label-Concatenated Graph Queries](https://ieeexplore.ieee.org/document/10184548).\
+* A Reachability Index for Recursive Label-Concatenated Graph Queries.\
 *__Chao Zhang__, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
 ICDE 2023. [[Extended version]](https://arxiv.org/abs/2203.08606) [[Code]](https://github.com/g-rpqs/rlc-index) [[Slides]](./files/A_Reachability_Index_for_Recursive_Label-Concatenated_Graph_Queries.pdf)
 
-* [Efficient Incremental Computation of Aggregations over Sliding Windows](https://dl.acm.org/doi/10.1145/3447548.3467360).\
+* Efficient Incremental Computation of Aggregations over Sliding Windows.\
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
 KDD 2021. [[Code]](https://github.com/chaozhang-db/PBA)
 
-* [SUDAF: Sharing User-Defined Aggregate Functions](https://ieeexplore.ieee.org/document/9101637).\
+* SUDAF: Sharing User-Defined Aggregate Functions).\
 *__Chao Zhang__, Farouk Toumani, Bastien Doreau.*\
-ICDE 2020 (Demo). 
+ICDE 2020 Demo. 
 
-* [Sharing Computations for User-Defined Aggregate Functions](https://openproceedings.org/2020/conf/edbt/paper_120.pdf).\
+* Sharing Computations for User-Defined Aggregate Functions.\
 *__Chao Zhang__, Farouk Toumani.*\
 EDBT 2020. 
 
-* [Symmetric and Asymmetric Aggregate Functions in Massively Parallel Computing](https://www.vldb.org/2017/cp_phd_workshop.php).\
+* Symmetric and Asymmetric Aggregate Functions in Massively Parallel Computing.\
 *__Chao Zhang__.*\
 VLDB PhD Workshop 2017.
 
 Preprints & Submissions
 ------
-* [LazyVLM: Neuro-Symbolic Approach to Video Analytics](https://arxiv.org/abs/2505.21459).\
-*Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*
-
 * [GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764).\
 *Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*
 
@@ -97,10 +100,11 @@ Service
   * SIGMOD: 2025, 2024, 2022
   * VLDB: 2026, 2025, 2024, 2023
   * ICDE: 2026
+  * EDBT: 2027
   * ACM SoCC: 2025, 2024, 2023
   * BDA: 2021 (Demo).
 * Invited Journal Reviewer:
-  * ACM TODS, VLDBJ, IEEE TKDE
+  * ACM TODS, VLDBJ, IEEE TKDE, CACM
 
 Awards
 ------
