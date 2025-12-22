@@ -49,7 +49,7 @@ VLDB 2024. [[Extended version]](https://arxiv.org/abs/2406.06754) [[Code]](https
 
 * An Overview of Reachability Indexes on Graphs.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-SIGMOD 2023 Tutorial. [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides (full)]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
+SIGMOD 2023 Tutorial. [[Slides (short)]](./files/sigmod23-tutorial-short.pdf) [[Slides]](https://github.com/dsg-uwaterloo/ozsu-grp/blob/main/An_Overview_of_Reachability_Indexes_on_Graphs.pdf)
 
 * A Reachability Index for Recursive Label-Concatenated Graph Queries.\
 *__Chao Zhang__, Angela Bonifati, Hugo Kapp, Vlad Ioan Haprian, Jean-Pierre Lozi.*\
