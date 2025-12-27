@@ -59,7 +59,7 @@ ICDE 2023. [[Extended version]](https://arxiv.org/abs/2203.08606) [[Code]](https
 *__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
 KDD 2021. [[Code]](https://github.com/chaozhang-db/PBA)
 
-* SUDAF: Sharing User-Defined Aggregate Functions).\
+* SUDAF: Sharing User-Defined Aggregate Functions.\
 *__Chao Zhang__, Farouk Toumani, Bastien Doreau.*\
 ICDE 2020 Demo. 
 
@@ -84,6 +84,7 @@ Preprints & Submissions
 
 Presentations
 ------
+Invited talks, excluding paper presentations at conferences.
 * Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes.
   * School of Information Technology, York University, November 20, 2025.
   * Department of Computer Science, University of Lyon (Lyon 1) / CNRS LIRIS, October 13, 2025
