@@ -33,7 +33,11 @@ SIGMOD 2026 (accepted for publication). [[Extended version]](https://www.arxiv.o
 
 * LazyVLM: Neuro-Symbolic Approach to Video Analytics.\
 *Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
-ICDE 2026 Demo (accepted for publication). 
+ICDE 2026 Demo (accepted for publication).
+
+* [GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764).\
+*Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
+ICLR 2026.
 
 * Indexing Techniques for Graph Reachability Queries.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
@@ -73,9 +77,6 @@ VLDB PhD Workshop 2017.
 
 Preprints & Submissions
 ------
-* [GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks](https://arxiv.org/abs/2504.12764).\
-*Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*
-
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*
 
@@ -85,6 +86,8 @@ Preprints & Submissions
 Presentations
 ------
 Invited talks, excluding paper presentations at conferences.
+* Distribution-Aware Exploration for Adaptive HNSW Search.
+  * Infrastructure System Lab, ByteDance USA, January 27, 2026.  
 * Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes.
   * School of Information Technology, York University, November 20, 2025.
   * Department of Computer Science, University of Lyon (Lyon 1) / CNRS LIRIS, October 13, 2025
@@ -99,7 +102,7 @@ Service
 ------
 * Program Committee Member:
   * SIGMOD: 2025, 2024, 2022
-  * VLDB: 2026, 2025, 2024, 2023  
+  * VLDB: 2027, 2026, 2025, 2024, 2023  
   * ICDE: 2026
   * EDBT: 2027
   * ACM SoCC: 2025, 2024, 2023
