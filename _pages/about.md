@@ -10,7 +10,7 @@ redirect_from:
 I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
 I work on data systems. My recent focus is on data systems and large language models, collectively referred to as Data Intelligence Platforms. My research interests include the following:
-* Query Processing: heterogenous data; natural language queries; indexing methods; graph queries; OLAP; stream processing.
+* Query Processing: heterogenous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
 
 <span style="color:red">I am looking for PhD, Postdoc, Master's Studnets, Research Interns, and Visiting Students. Please feel free to drop me a message.</span>
@@ -100,6 +100,8 @@ Invited talks, excluding paper presentations at conferences.
     
 Service
 ------
+* Chairs:
+  * VLDB 2026 Web Chairs.
 * Program Committee Member:
   * SIGMOD: 2025, 2024, 2022
   * VLDB: 2027, 2026, 2025, 2024, 2023  
