@@ -10,7 +10,7 @@ redirect_from:
 I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
 I work on data systems. My recent focus is on data systems and large language models, collectively referred to as Data Intelligence Platforms. My research interests include the following:
-* Query Processing: heterogenous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
+* Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
 
 <span style="color:red">I am looking for PhD, Postdoc, Master's Studnets, Research Interns, and Visiting Students. Please feel free to drop me a message.</span>
@@ -90,7 +90,7 @@ Invited talks, excluding paper presentations at conferences.
   * Infrastructure System Lab, ByteDance USA, January 27, 2026.  
 * Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes.
   * School of Information Technology, York University, November 20, 2025.
-  * Department of Computer Science, University of Lyon (Lyon 1) / CNRS LIRIS, October 13, 2025
+  * Department of Computer Science, University of Lyon (Lyon 1) / CNRS LIRIS, October 13, 2025.
 * Towards High-Throughput and Low-Latency Sliding Window Processing over Data Streams.
   * School of Computer Science, University of Guelph, June 18, 2025.
   * School of Information Technology, York University, April 2, 2024.
