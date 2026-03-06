@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoc in the Data Systems Group at the University of Waterloo. I am working with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes. I worked with [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Previously, I was a postdoc at the University of Lyon (Lyon 1), working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in computer science from the University of Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
+I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data. I am affiliated with the CNRS LIRIS Database Group. I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the Data Intelligence Lab.
 
-I work on data systems. My recent focus is on data systems and large language models, collectively referred to as Data Intelligence Platforms. My research interests include the following:
+I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in Computer Science from Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
+
+I work on Data Systems. My recent focus is on Data Systems and AI. My interests include the following:
 * Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
 
@@ -94,6 +96,8 @@ Invited talks, excluding paper presentations at conferences.
 * Towards High-Throughput and Low-Latency Sliding Window Processing over Data Streams.
   * School of Computer Science, University of Guelph, June 18, 2025.
   * School of Information Technology, York University, April 2, 2024.
+* Incremental Sliding Window Connectivity over Streaming Graphs.
+  * Next-Generation Big Graph Learning and Analytics at IEEE BigData, December 15, 2024.
 * Big Graph Processing Systems (with Angela Bonifati). 
   * MDD 2022 Summer School, Bastia, June 19-23, 2022. 
   * eBISS 2022 Summer School, Cesena, July 4-8, 2022.
@@ -108,6 +112,7 @@ Service
   * ICDE: 2026
   * EDBT: 2027
   * ACM SoCC: 2025, 2024, 2023
+  * GRADES-NDA@SIGMOD: 2026
   * VLDB Demo: 2026
   * BDA Demo: 2021.
 * Invited Journal Reviewer:
@@ -121,9 +126,10 @@ Awards
 
 Teaching
 ------
+* *Big Graph Processing Systems* at Université Lyon 1, Winter 2026.
 * *[CS 348: Introduction to Database Management](https://student.cs.uwaterloo.ca/~cs348/outline-w23/)* at the University of Waterloo, Winter 2023.
 * *Big Data Processing: Apache Spark in Action* at the University of Clermont Auvergne, Spring 2022.
-* *Semantic Web* (labs) at the University of Clermont Auvergne, Fall 2021. 
+* *Semantic Web* (labs) at Université Clermont Auvergne, Fall 2021. 
 
 ------
 Visitors to this page come from:
