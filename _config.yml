@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chao Zhang"
 title_separator          : "-"
 name                     : &name "Chao Zhang"
-description              : &description "Postdoc at the University of Waterloo"
+description              : &description "Junior Professor Chair at U. Lyon 1"
 url                      : "https://chaozhang-cs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chaozhang-cs.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chao Zhang (张超)"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at University of Waterloo"
-  location         : "Waterloo, Canada"
+  bio              : "Junior Professor Chair (Lyon 1) | Adjunct Asst. Prof. (UWaterloo)"
+  # location         : "Waterloo, Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
