@@ -129,6 +129,8 @@ Awards
 
 Students
 ------
+* Visitors
+  * Chenning, Wu, PhD student from Fudan Univesity, 2026. Co-hosted with Renée J. Miller.
 
 * Undergraduate Interns
   * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026. Co-supervised by Farouk Toumani.
