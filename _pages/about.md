@@ -79,7 +79,7 @@ VLDB PhD Workshop 2017.
 
 Preprints & Submissions
 ------
-* [FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://arxiv.org/abs/2604.07413 ).\
+* [FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://arxiv.org/abs/2604.07413 ).\
 *Xiangru Jian, Hao Xu, Wei Pang, Xinjian Zhao, Chengyu Tao, Qixin Zhang, Xikun Zhang, __Chao Zhang__, Guanzhi Deng, Alex Xue, Juan Du, Tianshu Yu, Garth Tarr, Linqi Song, Qiuzhuang Sun, Dacheng Tao.*
 
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
@@ -130,7 +130,7 @@ Awards
 Students
 ------
 * Visitors
-  * Chenning, Wu, PhD student from Fudan Univesity, 2026. Co-hosted with Renée J. Miller.
+  * Chenning Wu, PhD student from Fudan Univesity, 2026. Co-hosted with Renée J. Miller.
 
 * Undergraduate Interns
   * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026. Co-supervised by Farouk Toumani.
