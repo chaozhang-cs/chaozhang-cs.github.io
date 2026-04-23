@@ -108,16 +108,18 @@ Invited talks, excluding paper presentations at conferences.
 Service
 ------
 * Chairs:
-  * VLDB 2026 Web Chairs.
+  * ICDE 2027 Senior PC
+  * VLDB 2026 Web Chairs
 * Program Committee Member:
   * SIGMOD: 2025, 2024, 2022
   * VLDB: 2027, 2026, 2025, 2024, 2023  
   * ICDE: 2026
   * EDBT: 2027
   * ACM SoCC: 2025, 2024, 2023
-  * GRADES-NDA@SIGMOD: 2026
   * VLDB Demo: 2026
   * BDA Demo: 2021.
+  * GRADES-NDA@SIGMOD: 2026
+  * AGENTS+GRAPH@VLDB: 2026
 * Invited Journal Reviewer:
   * ACM TODS, VLDBJ, IEEE TKDE, CACM
 
@@ -137,6 +139,7 @@ Students
 
 Teaching
 ------
+* *Machine Learning Techniques and Applications* at Université Lyon 1, Fall 2026.
 * *Big Graph Processing Systems* at Université Lyon 1, Winter 2026.
 * *[CS 348: Introduction to Database Management](https://student.cs.uwaterloo.ca/~cs348/outline-w23/)* at the University of Waterloo, Winter 2023.
 * *Big Data Processing: Apache Spark in Action* at the University of Clermont Auvergne, Spring 2022.
