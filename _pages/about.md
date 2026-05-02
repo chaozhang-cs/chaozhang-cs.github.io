@@ -136,6 +136,7 @@ Students
 
 * Undergraduate Interns
   * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026. Co-supervised by Farouk Toumani.
+  * Jiayi Wang, INSA Lyon, 2026. Co-supervised by Angela Bonifati. 
 
 Teaching
 ------
