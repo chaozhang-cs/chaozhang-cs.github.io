@@ -79,7 +79,7 @@ VLDB PhD Workshop 2017.
 
 Preprints & Submissions
 ------
-* [FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://arxiv.org/abs/2604.07413 ).\
+* [FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios](https://arxiv.org/abs/2604.07413).\
 *Xiangru Jian, Hao Xu, Wei Pang, Xinjian Zhao, Chengyu Tao, Qixin Zhang, Xikun Zhang, __Chao Zhang__, Guanzhi Deng, Alex Xue, Juan Du, Tianshu Yu, Garth Tarr, Linqi Song, Qiuzhuang Sun, Dacheng Tao.*
 
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
