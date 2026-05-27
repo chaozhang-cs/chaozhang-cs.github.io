@@ -108,8 +108,8 @@ Invited talks, excluding paper presentations at conferences.
 Service
 ------
 * Chairs:
-  * ICDE 2027 Senior PC
-  * VLDB 2026 Web Chairs
+  * ICDE 2027 Area Chair
+  * VLDB 2026 Web Chair
 * Program Committee Member:
   * SIGMOD: 2025, 2024, 2022
   * VLDB: 2027, 2026, 2025, 2024, 2023  
@@ -136,7 +136,8 @@ Students
 
 * Undergraduate Interns
   * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026. Co-supervised by Farouk Toumani.
-  * Jiayi Wang, INSA Lyon, 2026. Co-supervised by Angela Bonifati. 
+  * Jiayi Wang, INSA Lyon, 2026. Co-supervised by Angela Bonifati.
+  * [Tianjiao Wu](https://www.linkedin.com/in/tianjiao-wu-insalyon-informatique/?locale=en), INSA Lyon, 2026.
 
 Teaching
 ------
