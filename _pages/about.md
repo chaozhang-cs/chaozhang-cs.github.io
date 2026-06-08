@@ -15,7 +15,7 @@ I work on Data Systems. My recent focus is on Data Systems and AI. My interests 
 * Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
 
-<!-- <span style="color:red">I am looking for highly motivated PhD candidates and Postdocs. If you are interested in my research, please email me your CV, transcript, and a statement of your research interests.</span> -->
+<span style="color:red">I am seeking highly motivated Postdocs. If you are interested in Data Systems and AI, please email me your CV, three representative papers, and a statement of your research interests.</span>
 
 Key Works
 ------
@@ -108,7 +108,7 @@ Invited talks, excluding paper presentations at conferences.
 Service
 ------
 * Chairs:
-  * ICDE 2027 Area Chair
+  * ICDE 2027 Senior Program Committee
   * VLDB 2026 Web Chair
 * Program Committee Member:
   * SIGMOD: 2025, 2024, 2022
