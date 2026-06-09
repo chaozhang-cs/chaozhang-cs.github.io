@@ -92,6 +92,7 @@ Presentations
 ------
 Invited talks, excluding paper presentations at conferences.
 * Distribution-Aware Exploration for Adaptive HNSW Search.
+  * Apple, June 12, 2026.   
   * Infrastructure System Lab, ByteDance USA, January 27, 2026.  
 * Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes.
   * School of Information Technology, York University, November 20, 2025.
