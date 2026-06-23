@@ -31,11 +31,11 @@ DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
 
 * Distribution-Aware Exploration for Adaptive HNSW Search.\
 *__Chao Zhang__, Renée J. Miller.*\
-SIGMOD 2026 (accepted for publication). [[Extended version]](https://www.arxiv.org/pdf/2512.06636) [[Code]](https://github.com/chaozhang-cs/hnsw-ada-ef)
+SIGMOD 2026. [[Extended version]](https://www.arxiv.org/pdf/2512.06636) [[Code]](https://github.com/chaozhang-cs/hnsw-ada-ef)
 
 * LazyVLM: Neuro-Symbolic Approach to Video Analytics.\
 *Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
-ICDE 2026 Demo (accepted for publication).
+ICDE 2026 Demo.
 
 * GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks.\
 *Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
