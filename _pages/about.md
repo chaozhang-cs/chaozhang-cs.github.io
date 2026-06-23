@@ -19,11 +19,11 @@ I work on Data Systems. My recent focus is on Data Systems and AI. My interests 
 
 Key Works
 ------
-* Ada-ef (SIGMOD' 26): Adaptive vector search with declarative recall.
-* BIC (VLDB' 24, KDD' 21): Incremental computing framework for sliding window query processing over data streams.
+* Ada-ef (SIGMOD '26): Adaptive vector search with declarative recall.
+* BIC (VLDB '24, KDD '21): Incremental computing framework for sliding window query processing over data streams.
 * SUDAF (ACM TODS 2024): Processing and optimizing queries with user-defined aggregate functions.
-* RLC Index (ICDE' 23): Indexing multi-hop, recursive relationships on graphs.
-* LazyVLM (ICDE' 26 Demo): Scaling vision-language-model–based video analytics.
+* RLC Index (ICDE '23): Indexing multi-hop, recursive relationships on graphs.
+* LazyVLM (ICDE '26 Demo): Scaling vision-language-model–based video analytics.
 
 Publications
 ------
