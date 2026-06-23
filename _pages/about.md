@@ -113,6 +113,7 @@ Service
 ------
 * Chairs:
   * ICDE 2027 Senior Program Committee
+  * EDBT 2027 Workshop Proceedings Chair
   * VLDB 2026 Web Chair
 * Program Committee Member:
   * SIGMOD: 2025, 2024, 2022
