@@ -141,7 +141,7 @@ Students
   * Hanwen Huang (MSc at Leiden University), since September 2026. Co-supervised by Farouk Toumani.
   * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026. Co-supervised by Farouk Toumani.
 * Visitors
-  * Chenning Wu, PhD student from Fudan Univesity, 2026. Co-hosted by Renée J. Miller (PI).
+  * Chenning Wu, PhD student at Fudan Univesity, 2026. Co-hosted by Renée J. Miller (PI).
 * Undergraduate Interns
   * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026. Co-supervised by Farouk Toumani.
   * Jiayi Wang, INSA Lyon, 2026. Co-supervised by Angela Bonifati.
