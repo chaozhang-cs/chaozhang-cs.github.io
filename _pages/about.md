@@ -15,7 +15,7 @@ I work on Data Systems. My recent focus is on Data Systems and AI. My interests 
 * Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
 
-<span style="color:red">I am seeking highly motivated Postdocs. If you are interested in Data Systems and AI, please email me your CV, three representative papers, and a statement of your research interests.</span>
+<span style="color:red">Seeking highly motivated PhD students and Postdoctoral Researchers in Data Systems and AI. Please email me your CV and a statement of your research interests; Postdoc applicants should also include three representative papers.</span>
 
 Key Works
 ------
