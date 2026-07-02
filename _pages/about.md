@@ -43,7 +43,7 @@ ICLR 2026.
 
 * Indexing Techniques for Graph Reachability Queries.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
-ACM CSUR 2025, Volumne 58, Issue 6. [[Extended version]](https://arxiv.org/pdf/2311.03542.pdf).
+ACM CSUR 2025, Volumne 58, Issue 6. [[Extended version]](https://arxiv.org/pdf/2311.03542.pdf)
 
 * Incremental Sliding Window Connectivity over Streaming Graphs.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
