@@ -137,14 +137,20 @@ Awards
 Students
 ------
 * PhD Students
-  * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since September 2026. Co-supervised by Angela Bonifati.
-  * Hanwen Huang (MSc at Leiden University), since September 2026. Co-supervised by Farouk Toumani.
-  * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026. Co-supervised by Farouk Toumani.
+  * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since September 2026.\
+  Co-supervised by Angela Bonifati.
+  * Hanwen Huang (MSc at Leiden University), since September 2026.\
+  Co-supervised by Farouk Toumani.
+  * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026.\
+  Co-supervised by Farouk Toumani.
 * Visitors
-  * Chenning Wu, PhD student at Fudan Univesity, 2026. Co-hosted by Renée J. Miller (PI).
+  * Chenning Wu, PhD student at Fudan Univesity, 2026.\
+  Co-hosted with Renée J. Miller (Principal Investigator).
 * Undergraduate Interns
-  * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026. Co-supervised by Farouk Toumani.
-  * Jiayi Wang, INSA Lyon, 2026. Co-supervised by Angela Bonifati.
+  * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026.\
+  Co-supervised by Farouk Toumani.
+  * Jiayi Wang, INSA Lyon, 2026.\
+  Co-supervised by Angela Bonifati.
   * [Tianjiao Wu](https://www.linkedin.com/in/tianjiao-wu-insalyon-informatique/?locale=en), INSA Lyon, 2026.
 
 Teaching
