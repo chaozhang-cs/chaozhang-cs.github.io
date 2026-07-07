@@ -94,10 +94,13 @@ Preprints & Submissions
 Presentations
 ------
 Invited talks, excluding paper presentations at conferences.
+* Introduction to Large Language Models and Their Implications for Public Health.
+  * Laboratory for Industrial and Applied Mathematics (LIAM), York University, July 23, 2026.
 * Distribution-Aware Exploration for Adaptive HNSW Search.
   * Intelligence Data Foundations Team, Apple, June 12, 2026.   
   * Infrastructure System Lab, ByteDance USA, January 27, 2026.  
 * Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes.
+  * Global Software Technology Summit: AI Data Infrastructure, Berlin, July 30-31, 2026.
   * School of Information Technology, York University, November 20, 2025.
   * Department of Computer Science, University of Lyon (Lyon 1) / CNRS LIRIS, October 13, 2025.
 * Towards High-Throughput and Low-Latency Sliding Window Processing over Data Streams.
