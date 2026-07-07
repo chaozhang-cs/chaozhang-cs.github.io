@@ -125,7 +125,7 @@ Service
   * EDBT: 2027
   * ACM SoCC: 2025, 2024, 2023
   * VLDB Demo: 2026
-  * BDA Demo: 2021.
+  * BDA Demo: 2021
   * GRADES-NDA@SIGMOD: 2026
   * AGENTS+GRAPH@VLDB: 2026
 * Invited Journal Reviewer:
