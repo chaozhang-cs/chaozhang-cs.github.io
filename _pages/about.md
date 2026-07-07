@@ -109,8 +109,8 @@ Invited talks, excluding paper presentations at conferences.
 * Incremental Sliding Window Connectivity over Streaming Graphs.
   * Next-Generation Big Graph Learning and Analytics at IEEE BigData, December 15, 2024.
 * Big Graph Processing Systems (with Angela Bonifati). 
-  * MDD 2022 Summer School, Bastia, June 19-23, 2022. 
   * eBISS 2022 Summer School, Cesena, July 4-8, 2022.
+  * MDD 2022 Summer School, Bastia, June 19-23, 2022. 
     
 Service
 ------
