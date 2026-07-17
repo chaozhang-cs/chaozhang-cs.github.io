@@ -142,8 +142,8 @@ Students
 * PhD Students
   * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since September 2026.\
   Co-supervised by Angela Bonifati.
-  * Hanwen Huang (MSc at Leiden University), since September 2026.\
-  Co-supervised by Farouk Toumani.
+  <!-- * Hanwen Huang (MSc at Leiden University), since September 2026.\
+  Co-supervised by Farouk Toumani. -->
   * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026.\
   Co-supervised by Farouk Toumani.
 * Visitors
