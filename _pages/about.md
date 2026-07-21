@@ -94,7 +94,7 @@ Preprints & Submissions
 Presentations
 ------
 Invited talks, excluding paper presentations at conferences.
-* Introduction to Large Language Models and Their Implications for Disease Modeling .
+* Introduction to Large Language Models and Their Implications for Disease Modeling.
   * Laboratory for Industrial and Applied Mathematics (LIAM), York University, July 23, 2026.
 * Distribution-Aware Exploration for Adaptive HNSW Search.
   * Intelligence Data Foundations Team, Apple, June 12, 2026.   
