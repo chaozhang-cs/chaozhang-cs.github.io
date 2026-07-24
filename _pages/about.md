@@ -124,6 +124,7 @@ Service
   * ICDE: 2026
   * EDBT: 2027
   * ACM SoCC: 2025, 2024, 2023
+  * AAAI: 2027
   * VLDB Demo: 2026
   * BDA Demo: 2021
   * GRADES-NDA@SIGMOD: 2026
