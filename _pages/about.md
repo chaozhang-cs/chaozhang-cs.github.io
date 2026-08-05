@@ -157,7 +157,7 @@ Students
 
 Teaching
 ------
-* *Machine Learning Techniques and Applications: : Foundation Models and Agentic Systems* at Université Lyon 1, Fall 2026.
+* *Machine Learning Techniques and Applications: Foundation Models and Agentic Systems* at Université Lyon 1, Fall 2026.
 * *Big Graph Processing Systems* at Université Lyon 1, Winter 2026.
 * *[CS 348: Introduction to Database Management](https://student.cs.uwaterloo.ca/~cs348/outline-w23/)* at the University of Waterloo, Winter 2023.
 * *Big Data Processing: Apache Spark in Action* at the University of Clermont Auvergne, Spring 2022.
