@@ -41,6 +41,10 @@ ICDE 2026 Demo.
 *Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
 ICLR 2026.
 
+* Parallelization of Incremental Aggregations over Sliding Windows.\
+*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*\
+DMKD 2026 (Accepted for publication).
+
 * Indexing Techniques for Graph Reachability Queries.\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*\
 ACM CSUR 2025, Volumne 58, Issue 6. [[Extended version]](https://arxiv.org/pdf/2311.03542.pdf)
@@ -87,9 +91,6 @@ Preprints & Submissions
 
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*
-
-* Parallelization of Incremental Aggregations over Sliding Windows.\
-*__Chao Zhang__, Reza Akbarinia, Farouk Toumani.*
 
 Presentations
 ------
