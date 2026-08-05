@@ -119,7 +119,7 @@ Service
   * EDBT 2027 Workshop Proceedings Chair
   * VLDB 2026 Web Chair
 * Program Committee Member:
-  * SIGMOD: 2025, 2024, 2022
+  * SIGMOD: 2027 (LLFR PC), 2025, 2024, 2022
   * VLDB: 2027, 2026, 2025, 2024, 2023  
   * ICDE: 2026
   * EDBT: 2027
