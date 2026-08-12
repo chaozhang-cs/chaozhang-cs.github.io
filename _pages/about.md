@@ -17,6 +17,8 @@ I work on Data Systems. My recent focus is on Data Systems and AI. My interests 
 
 <span style="color:red">Seeking highly motivated PhD students and Postdoctoral Researchers in Data Systems and AI. Please email me your CV and a statement of your research interests; Postdoc applicants should also include three representative papers.</span>
 
+Students are encouraged to read Renée J. Miller’s [writing tips](https://rjmillerlab.github.io/writing/) on preparing Computer Science papers.
+
 Key Works
 ------
 * Ada-ef (SIGMOD '26): Adaptive vector search with declarative recall.
