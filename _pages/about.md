@@ -9,7 +9,8 @@ redirect_from:
 ---
 I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data. I am affiliated with the CNRS LIRIS Database Group. I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the Data Intelligence Lab.
 
-I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) on data lakes and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) on graph data management. Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). I received my PhD in Computer Science from Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
+I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
+I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
 I work on Data Systems. My recent focus is on Data Systems and AI. My interests include the following:
 * Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
@@ -97,11 +98,11 @@ Preprints & Submissions
 Presentations
 ------
 Invited talks, excluding paper presentations at conferences.
-* Introduction to Large Language Models and Their Implications for Disease Modeling.
-  * Laboratory for Industrial and Applied Mathematics (LIAM), York University, July 23, 2026.
 * Distribution-Aware Exploration for Adaptive HNSW Search.
   * Intelligence Data Foundations Team, Apple, June 12, 2026.   
   * Infrastructure System Lab, ByteDance USA, January 27, 2026.  
+* Introduction to Large Language Models and Their Implications for Disease Modeling.
+  * Laboratory for Industrial and Applied Mathematics (LIAM), York University, July 23, 2026.
 * Towards Efficient and Trustworthy Query Processing over Heterogeneous Data Lakes.
   * Global Software Technology Summit – AI Data Infrastructure, Berlin, July 30-31, 2026.
   * School of Information Technology, York University, November 20, 2025.
@@ -163,7 +164,7 @@ Teaching
 * *Machine Learning Techniques and Applications: Foundation Models and Agentic Systems* at Université Lyon 1, Fall 2026.
 * *Big Graph Processing Systems* at Université Lyon 1, Winter 2026.
 * *[CS 348: Introduction to Database Management](https://student.cs.uwaterloo.ca/~cs348/outline-w23/)* at the University of Waterloo, Winter 2023.
-* *Big Data Processing: Apache Spark in Action* at the University of Clermont Auvergne, Spring 2022.
+* *Big Data Processing: Apache Spark in Action* at Université Clermont Auvergne, Spring 2022.
 * *Semantic Web* (labs) at Université Clermont Auvergne, Fall 2021. 
 
 ------
