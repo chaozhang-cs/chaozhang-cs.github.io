@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data. I am affiliated with the CNRS LIRIS Database Group. I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the Data Intelligence Lab.
+I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data. 
+I am affiliated with the Database Group at CNRS LIRIS and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
+I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the Data Intelligence Lab.
 
 I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
 I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
