@@ -22,6 +22,19 @@ I work on Data Systems. My recent focus is on Data Systems and AI. My interests 
 
 Students are encouraged to read Renée J. Miller’s [writing tips](https://rjmillerlab.github.io/writing/) on preparing Computer Science papers.
 
+News
+------
+
+* **August 2026** — The newly redesigned course *MLTA: Foundation Models and Agentic Systems* is now online. [[Course Website]](https://chaozhang-cs.github.io/lyon1-mlta/)
+* **August 2026** — *FORGE* was accepted to Findings of EMNLP 2026.
+* **July 2026** — Gave an invited talk on *Data Systems and AI* at the Global Software Technology Summit – AI Data Infrastructure in Berlin.
+* **July 2026** — Gave an invited talk on *LLMs for Disease Modeling* at York University's Laboratory for Industrial and Applied Mathematics.
+* **June 2026** — Gave an invited talk on adaptive vector search to Apple's Intelligence Data Foundations team.
+* **June 2026** — [*Ada-ef*](https://www.arxiv.org/pdf/2512.06636) appeared at SIGMOD 2026. [[Code]](https://github.com/chaozhang-cs/hnsw-ada-ef)
+* **March 2026** — Joined Université Lyon 1 as a Junior Professor Chair and the University of Waterloo as an Adjunct Assistant Professor.
+* **January 2026** — *GRAPHOMNI* was accepted to ICLR 2026.
+* **December 2025** — *LazyVLM* was accepted to the ICDE 2026 Demo track.
+
 Key Works
 ------
 * Ada-ef (SIGMOD '26): Adaptive vector search with declarative recall.
@@ -164,7 +177,7 @@ Students
 
 Teaching
 ------
-* *Machine Learning Techniques and Applications: Foundation Models and Agentic Systems* at Université Lyon 1, Fall 2026.
+* *[Machine Learning Techniques and Applications: Foundation Models and Agentic Systems](https://chaozhang-cs.github.io/lyon1-mlta/)* at Université Lyon 1, Fall 2026.
 * *Big Graph Processing Systems* at Université Lyon 1, Winter 2026.
 * *[CS 348: Introduction to Database Management](https://student.cs.uwaterloo.ca/~cs348/outline-w23/)* at the University of Waterloo, Winter 2023.
 * *Big Data Processing: Apache Spark in Action* at Université Clermont Auvergne, Spring 2022.
@@ -190,4 +203,3 @@ Visitors to this page come from:
   </div>
   <!-- End of ClustrMaps & eXTReMeTracker -->
 {% endif %}
-
