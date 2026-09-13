@@ -44,6 +44,7 @@ Key Works
 * RLC Index (ICDE '23): Indexing multi-hop, recursive relationships on graphs.
 * LazyVLM (ICDE '26 Demo): Scaling vision-language-model–based video analytics.
 
+
 Publications
 ------
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
