@@ -38,6 +38,7 @@ News
 Key Works
 ------
 * Ada-ef (SIGMOD '26): Adaptive vector search with declarative recall.
+* RA-SQL (SIGMOD '27): Relational algebra as CoT for Text2SQL.
 * BIC (VLDB '24, KDD '21): Incremental computing framework for sliding window query processing over data streams.
 * SUDAF (ACM TODS 2024): Processing and optimizing queries with user-defined aggregate functions.
 * RLC Index (ICDE '23): Indexing multi-hop, recursive relationships on graphs.
