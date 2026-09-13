@@ -24,7 +24,7 @@ Students are encouraged to read Renée J. Miller’s [writing tips](https://rjmi
 
 News
 ------
-
+* **September 2026** — RA-SQL was accepted to SIGMOD 2027. 
 * **August 2026** — The newly redesigned course *MLTA: Foundation Models and Agentic Systems* is now online. [[Course Website]](https://chaozhang-cs.github.io/lyon1-mlta/)
 * **August 2026** — *FORGE* was accepted to Findings of EMNLP 2026.
 * **July 2026** — Gave an invited talk on *Data Systems and AI* at the Global Software Technology Summit – AI Data Infrastructure in Berlin.
@@ -46,6 +46,10 @@ Key Works
 Publications
 ------
 DBLP: [Chao Zhang 0045](https://dblp.org/pid/94/3019-45.html)
+
+* RA-SQL: Relational Algebra as Deterministic Chain-of-Thought for Natural Language to SQL.\
+*Xiangru Jian, Wei Pang, __Chao Zhang__, Xi He, Tamer Özsu.*\
+SIGMOD 2027.
 
 * Distribution-Aware Exploration for Adaptive HNSW Search.\
 *__Chao Zhang__, Renée J. Miller.*\
