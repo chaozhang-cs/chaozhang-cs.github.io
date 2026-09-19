@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data. 
 I am affiliated with the Database Group at CNRS LIRIS and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
-I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the Data Intelligence Lab.
+I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the [Data Intelligence Lab](https://rjmillerlab.github.io/labs/).
 
 I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
 I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
@@ -146,12 +146,13 @@ Service
   * VLDB 2026 Web Chair
 * Program Committee Member:
   * SIGMOD: 2027 (LLFR PC), 2025, 2024, 2022
+  * SIGMOD Demo: 2027
   * VLDB: 2027, 2026, 2025, 2024, 2023  
+  * VLDB Demo: 2026
   * ICDE: 2026
   * EDBT: 2027
   * ACM SoCC: 2025, 2024, 2023
   * AAAI: 2027
-  * VLDB Demo: 2026
   * BDA Demo: 2021
   * GRADES-NDA@SIGMOD: 2026
   * AGENTS+GRAPH@VLDB: 2026
@@ -175,11 +176,11 @@ Students
   * Chenning Wu, PhD student at Fudan Univesity, 2026.\
   Co-hosted with Renée J. Miller (Principal Investigator).
 * Undergraduate Interns
-  * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, 2026.\
+  * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.\
   Co-supervised by Farouk Toumani.
-  * Jiayi Wang, INSA Lyon, 2026.\
+  * Jiayi Wang, INSA Lyon, June - September, 2026.\
   Co-supervised by Angela Bonifati.
-  * [Tianjiao Wu](https://www.linkedin.com/in/tianjiao-wu-insalyon-informatique/?locale=en), INSA Lyon, 2026.
+  * [Tianjiao Wu](https://www.linkedin.com/in/tianjiao-wu-insalyon-informatique/?locale=en), INSA Lyon, June - July, 2026.
 
 Teaching
 ------
