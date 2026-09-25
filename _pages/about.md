@@ -71,7 +71,7 @@ NeurIPS 2026.
 ICLR 2026.
 
 * FORGE: Fine-grained Multimodal Evaluation for Manufacturing Scenarios.\
-*Xiangru Jian, Hao Xu, Wei Pang, Xinjian Zhao, Chengyu Tao, Qixin Zhang, Xikun Zhang, __Chao Zhang__, Guanzhi Deng, Alex Xue, Juan Du, Tianshu Yu, Garth Tarr, Linqi Song, Qiuzhuang Sun, Dacheng Tao.*
+*Xiangru Jian, Hao Xu, Wei Pang, Xinjian Zhao, Chengyu Tao, Qixin Zhang, Xikun Zhang, __Chao Zhang__, Guanzhi Deng, Alex Xue, Juan Du, Tianshu Yu, Garth Tarr, Linqi Song, Qiuzhuang Sun, Dacheng Tao.*\
 EMNLP 2026 Findings.
 
 * Parallelization of Incremental Aggregations over Sliding Windows.\
