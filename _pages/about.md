@@ -24,6 +24,7 @@ Students are encouraged to read Renée J. Miller’s [writing tips](https://rjmi
 
 News
 ------
+* **September 2026** — TRL-Bench was accepted to NeurIPS 2026. 
 * **September 2026** — RA-SQL was accepted to SIGMOD 2027. 
 * **August 2026** — The newly redesigned course *MLTA: Foundation Models and Agentic Systems* is now online. [[Course Website]](https://chaozhang-cs.github.io/lyon1-mlta/)
 * **August 2026** — *FORGE* was accepted to Findings of EMNLP 2026.
@@ -60,6 +61,10 @@ SIGMOD 2026. [[Extended version]](https://www.arxiv.org/pdf/2512.06636) [[Code]]
 * LazyVLM: Neuro-Symbolic Approach to Video Analytics.\
 *Xiangru Jian, Wei Pang, Zhengyuan Dong, __Chao Zhang__, M. Tamer Özsu.*\
 ICDE 2026 Demo.
+
+* TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders.\
+*Wei Pang, Xiangru Jian, Hehan Li, Zhixuan Yu, Alex Xue, Jinyang Li, Zhengyuan Dong, Xinjian Zhao, Hao Xu, __Chao Zhang__, Reynold Cheng, M. Tamer Özsu, Tianshu Yu.*\
+NeurIPS 2026.
 
 * GRAPHOMNI: A Comprehensive and Extendable Benchmark Framework for Large Language Models on Graph-theoretic Tasks.\
 *Hao Xu, Xiangru Jian, Xinjian Zhao, Wei Pang, __Chao Zhang__, Suyuchen Wang, Qixin Zhang, Zhengyuan Dong, Joao Monteiro, Bang Liu, Qiuzhuang Sun, Tianshu Yu.*\
@@ -111,9 +116,6 @@ VLDB PhD Workshop 2017.
 
 Preprints & Submissions
 ------
-* [TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders](https://arxiv.org/abs/2606.09323).\
-*Wei Pang, Xiangru Jian, Hehan Li, Zhixuan Yu, Alex Xue, Jinyang Li, Zhengyuan Dong, Xinjian Zhao, Hao Xu, __Chao Zhang__, Reynold Cheng, M. Tamer Özsu, Tianshu Yu.*
-
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*
 
@@ -140,6 +142,8 @@ Invited talks, excluding paper presentations at conferences.
     
 Service
 ------
+* Grant Reviewer:
+  * Natural Sciences and Engineering Research Council of Canada (NSERC) 2027
 * Chairs:
   * ICDE 2027 Senior Program Committee
   * EDBT 2027 Workshop Proceedings Chair
@@ -151,8 +155,10 @@ Service
   * VLDB Demo: 2026
   * ICDE: 2026
   * EDBT: 2027
+  * EDBT Demo: 2027
   * ACM SoCC: 2025, 2024, 2023
   * AAAI: 2027
+  * BDA PhD Thesis Award: 2026 
   * BDA Demo: 2021
   * GRADES-NDA@SIGMOD: 2026
   * AGENTS+GRAPH@VLDB: 2026
@@ -168,19 +174,19 @@ Awards
 Students
 ------
 * PhD Students
-  * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since September 2026.\
+  * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since October 2026.\
   Co-supervised by Angela Bonifati.
   * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026.\
   Co-supervised by Farouk Toumani.
 * Visitors
-  * Chenning Wu, PhD student at Fudan Univesity, 2026.\
+  * Chenning Wu, PhD student at Fudan Univesity, May - August, 2026.\
   Co-hosted with Renée J. Miller (Principal Investigator).
-* Undergraduate Interns
-  * [Xinyi Liu](https://www.linkedin.com/in/xinyi-liu-719b34321/), L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.\
+* Undergraduates
+  * Xinyi Liu, L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.\
   Co-supervised by Farouk Toumani.
   * Jiayi Wang, INSA Lyon, June - September, 2026.\
   Co-supervised by Angela Bonifati.
-  * [Tianjiao Wu](https://www.linkedin.com/in/tianjiao-wu-insalyon-informatique/?locale=en), INSA Lyon, June - July, 2026.
+  * Tianjiao Wu, INSA Lyon, June - July, 2026.
 
 Teaching
 ------
