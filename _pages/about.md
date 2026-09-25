@@ -1,12 +1,28 @@
 ---
 permalink: /
-title: "About me"
+title: "Chao Zhang (张超)"
 excerpt: "About me"
 author_profile: true
+hide_author_name: true
+hide_author_bio: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+**Junior Professor Chair**\
+CNRS LIRIS\
+Department of Computer Science\
+Université Lyon 1\
+Lyon, France
+
+**Adjunct Assistant Professor**\
+Data Intelligence Lab\
+David R. Cheriton School of Computer Science\
+University of Waterloo\
+Waterloo, Canada
+
+About me
+------
 I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data. 
 I am affiliated with the Database Group at CNRS LIRIS and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
 I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the [Data Intelligence Lab](https://rjmillerlab.github.io/labs/).
@@ -14,13 +30,20 @@ I am also an Adjunct Assistant Professor at the University of Waterloo and affil
 I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
 I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
 
-I work on Data Systems. My recent focus is on Data Systems and AI. My interests include the following:
+<!-- I work on Data Systems. My recent focus is on Data Systems and AI. My interests include the following:
 * Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
-* Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI.
+* Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI. -->
 
 <span style="color:red">Seeking highly motivated PhD students and Postdoctoral Researchers in Data Systems and AI. Please email me your CV and a statement of your research interests; Postdoc applicants should also include three representative papers.</span>
 
 Students are encouraged to read Renée J. Miller’s [writing tips](https://rjmillerlab.github.io/writing/) on preparing Computer Science papers.
+
+
+Research
+------
+* **Data Systems for AI** — query processing, indexing methods, and data infrastructure for foundation models and agents.
+* **AI for Data Systems** — natural-language interfaces, agents, and AI-powered data processing.
+* **Data Lakes & Multimodal Data** — discovery, semantic/vector search, metadata, and integration.
 
 News
 ------
@@ -45,6 +68,31 @@ Key Works
 * RLC Index (ICDE '23): Indexing multi-hop, recursive relationships on graphs.
 * LazyVLM (ICDE '26 Demo): Scaling vision-language-model–based video analytics.
 
+
+Service
+------
+* Grant Reviewer:
+  * Natural Sciences and Engineering Research Council of Canada (NSERC) 2027
+* Chairs:
+  * ICDE 2027 Senior Program Committee
+  * EDBT 2027 Workshop Proceedings Chair
+  * VLDB 2026 Web Chair
+* Program Committee Member:
+  * SIGMOD: 2027 (LLFR PC), 2025, 2024, 2022
+  * SIGMOD Demo: 2027
+  * VLDB: 2027, 2026, 2025, 2024, 2023  
+  * VLDB Demo: 2026
+  * ICDE: 2026
+  * EDBT: 2027
+  * EDBT Demo: 2027
+  * ACM SoCC: 2025, 2024, 2023
+  * AAAI: 2027
+  * BDA PhD Thesis Award: 2026 
+  * BDA Demo: 2021
+  * GRADES-NDA@SIGMOD: 2026
+  * AGENTS+GRAPH@VLDB: 2026
+* Invited Journal Reviewer:
+  * ACM TODS, VLDBJ, IEEE TKDE, CACM
 
 Publications
 ------
@@ -119,6 +167,24 @@ Preprints & Submissions
 * [Low-Latency Sliding Window Connectivity](https://arxiv.org/pdf/2410.00884).\
 *__Chao Zhang__, Angela Bonifati, M. Tamer Özsu.*
 
+Students
+------
+* PhD Students
+  * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since October 2026.\
+  Co-supervised by Angela Bonifati.
+  * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026.\
+  Co-supervised by Farouk Toumani.
+* Visitors
+  * Chenning Wu, PhD student at Fudan Univesity, May - August, 2026.\
+  Co-hosted with Renée J. Miller (Principal Investigator).
+* Undergraduates
+  * Xinyi Liu, L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.\
+  Co-supervised by Farouk Toumani.
+  * Jiayi Wang, INSA Lyon, June - September, 2026.\
+  Co-supervised by Angela Bonifati.
+  * Tianjiao Wu, INSA Lyon, June - July, 2026.
+
+
 Presentations
 ------
 Invited talks, excluding paper presentations at conferences.
@@ -139,54 +205,7 @@ Invited talks, excluding paper presentations at conferences.
 * Big Graph Processing Systems (with Angela Bonifati). 
   * eBISS 2022 Summer School, Cesena, July 4-8, 2022.
   * MDD 2022 Summer School, Bastia, June 19-23, 2022. 
-    
-Service
-------
-* Grant Reviewer:
-  * Natural Sciences and Engineering Research Council of Canada (NSERC) 2027
-* Chairs:
-  * ICDE 2027 Senior Program Committee
-  * EDBT 2027 Workshop Proceedings Chair
-  * VLDB 2026 Web Chair
-* Program Committee Member:
-  * SIGMOD: 2027 (LLFR PC), 2025, 2024, 2022
-  * SIGMOD Demo: 2027
-  * VLDB: 2027, 2026, 2025, 2024, 2023  
-  * VLDB Demo: 2026
-  * ICDE: 2026
-  * EDBT: 2027
-  * EDBT Demo: 2027
-  * ACM SoCC: 2025, 2024, 2023
-  * AAAI: 2027
-  * BDA PhD Thesis Award: 2026 
-  * BDA Demo: 2021
-  * GRADES-NDA@SIGMOD: 2026
-  * AGENTS+GRAPH@VLDB: 2026
-* Invited Journal Reviewer:
-  * ACM TODS, VLDBJ, IEEE TKDE, CACM
 
-Awards
-------
-* Best Paper Award in BDA 2021, French Data Management Community.
-* Best PhD Thesis (runner-up) in BDA 2020, French Data Management Community.
-* Full scholarship for the 1st Big Sky Earth training school in DLR, Germany, April 4th-9th, 2016.
-
-Students
-------
-* PhD Students
-  * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since October 2026.\
-  Co-supervised by Angela Bonifati.
-  * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026.\
-  Co-supervised by Farouk Toumani.
-* Visitors
-  * Chenning Wu, PhD student at Fudan Univesity, May - August, 2026.\
-  Co-hosted with Renée J. Miller (Principal Investigator).
-* Undergraduates
-  * Xinyi Liu, L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.\
-  Co-supervised by Farouk Toumani.
-  * Jiayi Wang, INSA Lyon, June - September, 2026.\
-  Co-supervised by Angela Bonifati.
-  * Tianjiao Wu, INSA Lyon, June - July, 2026.
 
 Teaching
 ------
@@ -195,6 +214,15 @@ Teaching
 * *[CS 348: Introduction to Database Management](https://student.cs.uwaterloo.ca/~cs348/outline-w23/)* at the University of Waterloo, Winter 2023.
 * *Big Data Processing: Apache Spark in Action* at Université Clermont Auvergne, Spring 2022.
 * *Semantic Web* (labs) at Université Clermont Auvergne, Fall 2021. 
+
+
+
+
+Awards
+------
+* Best Paper Award in BDA 2021, French Data Management Community.
+* Best PhD Thesis (runner-up) in BDA 2020, French Data Management Community.
+* Full scholarship for the 1st Big Sky Earth training school in DLR, Germany, April 4th-9th, 2016.
 
 ------
 Visitors to this page come from:

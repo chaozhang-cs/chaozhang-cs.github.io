@@ -14,12 +14,16 @@
     {% endif %}
   </div>
 
-  <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-  </div>
+  {% unless page.hide_author_name and page.hide_author_bio %}
+    <div class="author__content">
+      {% unless page.hide_author_name %}<h3 class="author__name">{{ author.name }}</h3>{% endunless %}
+      {% unless page.hide_author_bio %}
+        {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+      {% endunless %}
+    </div>
+  {% endunless %}
 
-  <div class="author__urls-wrapper">
+  <div class="author__urls-wrapper{% if page.hide_author_bio %} author__urls-wrapper--spaced{% endif %}">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}

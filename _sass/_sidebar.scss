@@ -158,6 +158,13 @@
   }
 }
 
+.author__urls-wrapper--spaced {
+  @include breakpoint($large) {
+    margin-top: 10px;
+    padding-left: 55px;
+  }
+}
+
 .author__urls {
   display: none;
   position: absolute;
