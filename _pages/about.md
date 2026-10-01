@@ -23,7 +23,7 @@ Waterloo, Canada
 
 About me
 ------
-I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data funed by Agence Nationale de la Recherche (ANR). 
+I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data funded by Agence Nationale de la Recherche (ANR). 
 I am affiliated with the Database Group at CNRS LIRIS and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
 I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the [Data Intelligence Lab](https://rjmillerlab.github.io/labs/).
 
