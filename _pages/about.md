@@ -24,11 +24,12 @@ Waterloo, Canada
 About me
 ------
 I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data funded by Agence Nationale de la Recherche (ANR). 
-I am affiliated with the Database Group at CNRS LIRIS and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
+I am affiliated with CNRS LIRIS and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
 I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the [Data Intelligence Lab](https://rjmillerlab.github.io/labs/).
 
-I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
-I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
+Previously, I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
+<!-- Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/).  -->
+
 
 <!-- I work on Data Systems. My recent focus is on Data Systems and AI. My interests include the following:
 * Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
