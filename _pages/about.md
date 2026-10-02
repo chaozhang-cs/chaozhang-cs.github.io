@@ -34,7 +34,7 @@ I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne
 * Query Processing: heterogeneous and multimodal data; natural language queries; multi agents; indexing methods; graph queries; OLAP; stream processing.
 * Data Lakes: data discovery; vector and semantic search; metadata management; data integration; open lakehouse and AI. -->
 
-<span style="color:red">Seeking highly motivated PhD students for Fall 2027 ~~and Postdoctoral Researchers~~ in Data Systems and AI. Please email me your CV and a statement of your research interests; Postdoc applicants should also include three representative papers.</span>
+<span style="color:red">~~Seeking highly motivated PhD students for Fall 2027 and Postdoctoral Researchers in Data Systems and AI. Please email me your CV and a statement of your research interests; Postdoc applicants should also include three representative papers.~~</span>
 
 Students are encouraged to read Renée J. Miller’s [writing tips](https://rjmillerlab.github.io/writing/) on preparing Computer Science papers.
 
