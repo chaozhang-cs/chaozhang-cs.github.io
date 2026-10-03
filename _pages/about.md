@@ -24,7 +24,7 @@ Waterloo, Canada
 About me
 ------
 I am a Junior Professor Chair in the Department of Computer Science at Université Lyon 1, where I lead the Chair for Generative AI and Heterogeneous Data funded by Agence Nationale de la Recherche (ANR). 
-I am affiliated with CNRS LIRIS and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
+I am affiliated with [CNRS LIRIS](https://liris.cnrs.fr/en/member-page/chao-zhang) and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
 I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with the [Data Intelligence Lab](https://rjmillerlab.github.io/labs/).
 
 Previously, I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
