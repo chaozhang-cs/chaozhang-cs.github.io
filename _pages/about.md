@@ -27,8 +27,10 @@ I am a Junior Professor Chair in the Department of Computer Science at Universit
 I am affiliated with [CNRS LIRIS](https://liris.cnrs.fr/en/member-page/chao-zhang) and am a member of the Thematic Institute for Artificial Intelligence at Université de Lyon.
 I am also an Adjunct Assistant Professor at the University of Waterloo and affiliated with [Data Systems Group](https://uwaterloo.ca/data-systems-group/).
 
-Previously, I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
-<!-- Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/).  -->
+Previously, I was a postdoctoral researcher in the Data Systems Group at the University of Waterloo, where I worked with [Renée J. Miller](https://rjmillerlab.github.io/) and [Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/). 
+Prior to that, I was a postdoc at Université Lyon 1, working with [Angela Bonifati](https://perso.liris.cnrs.fr/angela.bonifati/). 
+I earned my PhD in Computer Science at CNRS LIMOS, Université Clermont Auvergne, advised by [Farouk Toumani](https://scholar.google.com/citations?user=0gPsmccAAAAJ&hl=en). I also worked closely with Inria and Oracle Labs (Zurich).
+
 
 
 <!-- I work on Data Systems. My recent focus is on Data Systems and AI. My interests include the following:
