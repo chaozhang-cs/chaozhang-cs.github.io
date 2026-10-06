@@ -181,6 +181,8 @@ Students
   * Chenning Wu, PhD student at Fudan Univesity, May - August, 2026.\
   Co-hosted with Renée J. Miller (Principal Investigator).
 * Undergraduates
+  * Brian Zhu, University of Waterloo, 2026.\
+  Co-supervised by Renée J. Miller. 
   * Xinyi Liu, L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.\
   Co-supervised by Farouk Toumani.
   * Jiayi Wang, INSA Lyon, June - September, 2026.\
