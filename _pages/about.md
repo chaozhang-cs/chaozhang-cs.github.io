@@ -194,7 +194,7 @@ Presentations
 ------
 Invited talks, excluding paper presentations at conferences.
 
-* Graph Engineering: Semantic Transactions in LLM Agent Shared Memory. Pitch Talk at Dagstuhl Seminar 26411: Large Language Models Meet Knowledge Graphs, October 4–9, 2026.
+* Graph Engineering: Semantic Transactions for Shared Agent Memory. Pitch Talk at Dagstuhl Seminar 26411: Large Language Models Meet Knowledge Graphs, October 4–9, 2026.
 * Distribution-Aware Exploration for Adaptive HNSW Search.
   * Intelligence Data Foundations Team, Apple, June 12, 2026.   
   * Infrastructure System Lab, ByteDance USA, January 27, 2026.  
