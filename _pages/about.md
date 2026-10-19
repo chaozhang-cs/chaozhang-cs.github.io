@@ -81,7 +81,7 @@ Service
   * EDBT 2027 Workshop Proceedings Chair
   * VLDB 2026 Web Chair
 * Program Committee Member:
-  * SIGMOD: 2027 (LLFR PC), 2025, 2024, 2022
+  * SIGMOD: 2028, 2027 (LLFR PC), 2025, 2024, 2022
   * SIGMOD Demo: 2027
   * VLDB: 2027, 2026, 2025, 2024, 2023  
   * VLDB Demo: 2026
@@ -174,19 +174,17 @@ Students
 ------
 * PhD Students
   * Jiahan Shi (MSc with Distinction at the University of Edinburgh), since October 2026.\
-  Co-supervised by Angela Bonifati.
+  Principal Supervisor: Chao Zhang; Co-Supervisor: Angela Bonifati.
   * Zhan Ye (MSc at the University of Paris-Saclay), since September 2026.\
-  Co-supervised by Farouk Toumani.
+  Principal Supervisor: Farouk Toumani; Co-Supervisor: Chao Zhang.
 * Visitors
   * Chenning Wu, PhD student at Fudan Univesity, May - August, 2026.\
   Co-hosted with Renée J. Miller (Principal Investigator).
 * Undergraduates
   * Brian Zhu, University of Waterloo, 2026.\
-  Co-supervised by Renée J. Miller. 
-  * Xinyi Liu, L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.\
-  Co-supervised by Farouk Toumani.
-  * Jiayi Wang, INSA Lyon, June - September, 2026.\
-  Co-supervised by Angela Bonifati.
+  Principal Supervisor: Renée J. Miller; Co-Supervisor: Chao Zhang.
+  * Xinyi Liu, L’École Centrale de Lyon & Emlyon Business School, May - August, 2026.
+  * Jiayi Wang, INSA Lyon, June - September, 2026.
   * Tianjiao Wu, INSA Lyon, June - July, 2026.
 
 
