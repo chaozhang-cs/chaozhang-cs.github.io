@@ -60,6 +60,7 @@ News
 * **June 2026** — [*Ada-ef*](https://www.arxiv.org/pdf/2512.06636) appeared at SIGMOD 2026. [[Code]](https://github.com/chaozhang-cs/hnsw-ada-ef)
 * **March 2026** — Joined Université Lyon 1 as a Junior Professor Chair and the University of Waterloo as an Adjunct Assistant Professor.
 * **January 2026** — *GRAPHOMNI* was accepted to ICLR 2026.
+* **January 2026** — Gave an invited talk on adaptive vector search to Infrastructure System Lab, ByteDance USA.
 * **December 2025** — *LazyVLM* was accepted to the ICDE 2026 Demo track.
 
 Key Works
